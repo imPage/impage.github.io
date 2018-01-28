@@ -31,12 +31,12 @@
 
 ## 点我 [我是链接](http://blog.pengjian.me/)
 ---
-|标题|标题|标题|  
-|:---|:---:|---:|  
-|居左测试文本|居中测试文本|居右测试文本|  
-|居左测试文本1|居中测试文本2|居右测试文本3|  
-|居左测试文本11|居中测试文本22|居右测试文本33|  
-|居左测试文本111|居中测试文本222|居右测试文本333|  
+
+| Name | Academy | score | 
+| - | :-: | -: | 
+| Harry Potter | Gryffindor| 90 | 
+| Hermione Granger | Gryffindor | 100 | 
+| Draco Malfoy | Slytherin | 90 |
 
 ---
 3种分割线【开始】 
