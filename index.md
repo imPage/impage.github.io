@@ -1,4 +1,4 @@
-## Welcome to [impage.pengjian.me](http://blog.pengjian.me/)
+## Welcome 
 ---
 
 # 十分钟学会markdown
